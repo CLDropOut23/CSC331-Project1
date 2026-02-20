@@ -9,7 +9,7 @@ a) If the program executes correctly or not
 b) If yes, five screenshots showing the successful execution of your program 
 - I used the screenshot feature on my computer to show that the program ran succesully 5 times. It is included in my ZIP file. \
 c) Anything you want me to know about your program development and execution 
-- During the development of this very simple program, I used the course book called "Computer Organization and Design" by Patterson and Hennessy.\
+- During the development of this very simple program, I used the course book called "Computer Organization and Design" by Patterson and Hennessy.
 - The course book was very useful in creating such a simple code. Espescially the second chapter. 
 
 d) Contributions of teammates if there are multiple 
